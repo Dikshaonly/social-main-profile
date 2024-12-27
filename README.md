@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dikshaonly/social-main-profile)
-- Live Site URL: [Add live site URL here](https://social-main-profile.netlify.app/)
+- Solution URL: [ solution URL ](https://github.com/Dikshaonly/social-main-profile)
+- Live Site URL: [ live site URL ](https://social-main-profile.netlify.app/)
 
 ## My process
 
